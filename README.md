@@ -1,2 +1,2 @@
 # Rakṣakṛti
-Rakṣakṛti is an innovative technology platform dedicated to the preservation, protection, and revitalization of cultural heritage worldwide.
+रक्षकृति एक इनोवेटिव टेक्नोलॉजी प्लेटफ़ॉर्म है जो दुनिया भर में सांस्कृतिक विरासत के संरक्षण, सुरक्षा और पुनरुद्धार के लिए समर्पित है।
